@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\bin\Debug\net6.0\Testing oop concepts.exe
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\bin\Debug\net6.0\Testing oop concepts.deps.json
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\bin\Debug\net6.0\Testing oop concepts.runtimeconfig.json
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\bin\Debug\net6.0\Testing oop concepts.dll
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\bin\Debug\net6.0\Testing oop concepts.pdb
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\Testing oop concepts.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\Testing oop concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\Testing oop concepts.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\Testing oop concepts.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\Testing oop concepts.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\Testing oop concepts.dll
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\refint\Testing oop concepts.dll
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\Testing oop concepts.pdb
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\Testing oop concepts.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\New folder\C sharp stuff\Testing oop concepts\Testing oop concepts\obj\Debug\net6.0\ref\Testing oop concepts.dll
